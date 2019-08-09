@@ -1,0 +1,1 @@
+This repository will contain various folders for me to practice my algorithms and data types.
